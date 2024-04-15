@@ -213,7 +213,7 @@ export default function Page() {
                 </p>
               </div>
               <Button
-                 
+                className="py-3 mr-10"
                 onClick={() => handleAddToCart(item)}
               >
                 Add to Cart
