@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "img": "dress.webp",
+    "name": "Dress",
+    "description": "CRZ YOGA Girls Pima Cotton Workout Crop Tops Short Sleeve Yoga Shirts Casual Athletic Running T-Shirts",
+    "price": 30.0
+  },
+  {
+    "id": 2,
+    "img": "bag.webp",
+    "name": "Bag",
+    "description": "Folding Travel Bag Folding Luggage Bag",
+    "price": 15.45
+  },
+  {
+    "id": 3,
+    "img": "watch.webp",
+    "name": "Watch",
+    "description": "Cool Quartz Leather Stylish Wrist Watch For Man",
+    "price": 22.0
+  }
+]
